@@ -1,3 +1,14 @@
+**IMPORTANT for fresh-falafel**
+
+This is a fork of falafel that adds the ability to set the parser without requiring `acorn` ahead of time.
+
+If [this](https://github.com/substack/node-falafel/pull/51) ever get merged you can use regular
+falafel instead.
+
+Original readme below
+
+========
+
 # falafel
 
 Transform the [ast](http://en.wikipedia.org/wiki/Abstract_syntax_tree) on a
